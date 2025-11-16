@@ -18,8 +18,8 @@
 </div>
 
 <h3 align="center">
-  🔹 <a href="https://github.com/pathan12321/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-  🔹 <a href="https://github.com/pathan12321/Portfolio/issues">Request Feature</a>
+  🔹 <a href="https://github.com/pathan123321/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+  🔹 <a href="https://github.com/pathan123321/Portfolio/issues">Request Feature</a>
 </h3>
 
 ---
