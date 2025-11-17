@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="https://your-vercel-link.vercel.app" target="_blank">pathan.vercel.app</a>
+  <a href="https://pathan-portfolio.vercel.app" target="_blank">pathan.vercel.app</a>
 </h2>
 
 <div align="center">
