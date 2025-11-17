@@ -43,7 +43,7 @@ function Projects() {
     isBlog={false}
     title="Personal Portfolio Website"
     description="A modern personal portfolio website built using React, featuring interactive animations, a responsive UI, custom components, and a fully integrated projects showcase. Designed to demonstrate my development skills and present my work in a clean and professional way."
-    ghLink="https://github.com/pathan123321/Portfolio"
+    ghLink="https://github.com/pathan123321/My-Portfolio"
     demoLink="" // Add your deployed link here when you host your portfolio
   />
 </Col>

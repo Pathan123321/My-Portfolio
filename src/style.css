@@ -97,6 +97,13 @@ button:focus {
 ::-webkit-scrollbar-track {
   background: #2d1950;
 }
+.avatar-tilt {
+  transition: transform 0.3s ease-in-out;
+}
+
+.avatar-tilt:hover {
+  transform: rotateX(10deg) rotateY(10deg) scale(1.05);
+}
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
