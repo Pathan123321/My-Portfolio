@@ -18,7 +18,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm a first-year engineering student with a strong foundation in C++, JavaScript, and SQL, and hands-on experience in React, Node.js, and Next.js. I enjoy working on meaningful projects, including my Solid Waste Management System aimed at solving real-world challenges. I continuously explore modern web technologies and strive to build efficient, scalable, and user-focused applications.
+I'm a Computer Science graduate with hands-on experience in modern web development and software engineering. 
+I enjoy building real-world applications, creating meaningful digital products, and continuously improving my skills in full-stack development.
               <br />
               <br />I am fluent in classics like
               <i>
