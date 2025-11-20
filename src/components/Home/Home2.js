@@ -18,8 +18,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-I'm a Computer Science graduate with hands-on experience in modern web development and software engineering. 
-I enjoy building real-world applications, creating meaningful digital products, and continuously improving my skills in full-stack development.
+              I'm a Computer Science graduate with hands-on experience in modern web development and software engineering. 
+              I enjoy building real-world applications, creating meaningful digital products, and continuously improving my skills in full-stack development.
               <br />
               <br />I am fluent in classics like
               <i>
