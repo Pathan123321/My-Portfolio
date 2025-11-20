@@ -11,7 +11,8 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">PATHAN BABA FAKRUDDIN </span>
             from <span className="purple"> Andhra Pradesh, India.</span>
             <br />
-            I am a first-year student and a fresher passionate about learning technology, building real projects, and improving my skills every day..
+                        I am a Computer Science graduate with a strong passion for building modern, user-focused web applications. 
+I have worked on several real-world projects including a Solid Waste Management platform and my personal portfolio website.
             <br />
             Apart from coding, I enjoy doing a few activities that keep me active and creative.
           </p>
